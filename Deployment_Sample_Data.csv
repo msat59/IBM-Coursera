@@ -1,0 +1,43 @@
+age_buy_property,income_code,months_income,gender,ethnic_group,lsm,riskscore,months_risk_score,has_email_addr,has_mobile_phone,months_mobile_phone,has_home_phone,months_home_phone,has_work_phone,months_work_phone,contactability_score,province,years_occupation,directorship,citizenship,credit_application_last_5yrs,marital_status,buyer
+73,2,45,Female,OTHER,4,4,45,0,1,109,0,0,0,0,2,Eastern Cape,5,DIRECTORSHIP UNKNOWN,Permanent_Res,0,Single,0
+73,2,90,Male,INDIAN,1,4,90,0,1,1447,0,0,0,0,2,,,DIRECTORSHIP UNKNOWN,Permanent_Res,0,Single,0
+73,3,45,Male,INDIAN,4,5,45,0,1,49,0,0,0,0,3,Limpopo,5,DIRECTORSHIP ACTIVE,Permanent_Res,0,Single,0
+73,1,45,Male,BLACK,2,4,45,0,1,38,0,0,0,0,3,Free State,,DIRECTORSHIP UNKNOWN,Permanent_Res,0,Married,0
+73,2,45,Female,BLACK,3,4,45,0,1,49,1,49,0,0,3,Kwazulu Natal,,DIRECTORSHIP UNKNOWN,Permanent_Res,0,Married,0
+73,2,45,Male,OTHER,1,4,45,0,1,35,0,0,0,0,3,Western Cape,8,DIRECTORSHIP ACTIVE,Permanent_Res,0,Married,0
+69,7,45,Male,BLACK,8,4,45,0,1,21,1,21,0,0,4,Western Cape,8,DIRECTORSHIP UNKNOWN,Citizen,0,Married,1
+74,1,45,Male,BLACK,2,4,45,0,0,0,1,1447,0,0,2,Kwazulu Natal,,DIRECTORSHIP ACTIVE,Permanent_Res,0,Single,0
+73,2,45,Female,INDIAN,3,4,45,0,1,22,0,0,1,107,4,Gauteng,8,DIRECTORSHIP ACTIVE,Permanent_Res,0,Single,0
+72,10,45,Male,OTHER,9,5,45,0,1,21,1,21,1,21,5,Western Cape,10,DIRECTORSHIP RESIGNED,Permanent_Res,0,Married,0
+72,4,45,Male,OTHER,6,5,45,0,1,22,0,0,0,0,4,,9,DIRECTORSHIP ACTIVE,Permanent_Res,0,Single,0
+73,1,45,Male,OTHER,5,3,45,0,1,22,1,62,0,0,4,Northern Cape,5,DIRECTORSHIP ACTIVE,Permanent_Res,0,Married,0
+72,2,90,Male,BLACK,1,4,90,0,1,131,0,0,0,0,2,Eastern Cape,9,DIRECTORSHIP UNKNOWN,Permanent_Res,0,Single,0
+72,3,45,Female,BLACK,9,5,45,0,1,21,1,38,1,58,4,Eastern Cape,8,DIRECTORSHIP ACTIVE,Permanent_Res,0,Married,0
+72,4,45,Male,OTHER,8,6,45,0,1,22,1,22,1,22,5,North West,5,DIRECTORSHIP UNKNOWN,Citizen,0,Married,0
+72,3,45,Female,BLACK,5,5,45,0,0,0,0,0,1,22,2,Gauteng,8,DIRECTORSHIP UNKNOWN,Permanent_Res,0,Married,0
+72,1,45,Female,OTHER,2,4,45,0,0,0,0,0,1,21,2,Kwazulu Natal,2,DIRECTORSHIP UNKNOWN,Permanent_Res,0,Single,0
+72,7,45,Male,OTHER,9,6,45,1,1,21,1,21,1,21,5,Gauteng,5,DIRECTORSHIP UNKNOWN,Permanent_Res,0,Married,0
+72,1,45,Male,OTHER,4,3,45,0,1,22,0,0,1,66,4,Eastern Cape,5,DIRECTORSHIP UNKNOWN,Permanent_Res,0,Single,0
+72,1,45,Male,OTHER,4,4,45,0,1,109,0,0,0,0,2,Gauteng,5,DIRECTORSHIP UNKNOWN,Permanent_Res,0,Married,0
+72,6,45,Male,OTHER,9,6,45,1,1,21,1,21,1,21,5,Gauteng,3,DIRECTORSHIP ACTIVE,Permanent_Res,0,Single,0
+72,1,45,Male,OTHER,3,4,45,0,1,22,0,0,0,0,4,Eastern Cape,,DIRECTORSHIP ACTIVE,Permanent_Res,0,Single,0
+72,2,45,Male,OTHER,2,4,45,0,1,22,0,0,0,0,4,North West,5,DIRECTORSHIP UNKNOWN,Permanent_Res,0,Married,0
+71,1,26,Male,OTHER,,3,26,0,1,109,0,0,0,0,2,Limpopo,,DIRECTORSHIP ACTIVE,Permanent_Res,0,Single,0
+71,3,45,Female,BLACK,3,4,45,0,1,49,0,0,0,0,3,Mpumalanga,9,DIRECTORSHIP ACTIVE,Permanent_Res,0,Single,0
+71,1,45,Male,BLACK,4,3,45,0,1,22,1,31,0,0,4,Free State,2,DIRECTORSHIP UNKNOWN,Citizen,0,Single,0
+66,6,45,Male,BLACK,6,5,45,0,1,34,1,130,1,34,4,Gauteng,9,DIRECTORSHIP ACTIVE,Permanent_Res,0,Married,1
+71,1,45,Female,BLACK,5,4,45,0,1,38,0,0,0,0,3,Eastern Cape,8,DIRECTORSHIP UNKNOWN,Permanent_Res,0,Single,0
+71,3,45,Female,OTHER,3,4,45,0,1,49,0,0,0,0,3,Eastern Cape,,DIRECTORSHIP UNKNOWN,Permanent_Res,0,Married,0
+71,2,45,Female,BLACK,3,3,45,0,1,21,0,0,1,35,5,North West,7,DIRECTORSHIP UNKNOWN,Permanent_Res,0,Married,0
+71,1,45,Male,OTHER,3,4,45,0,1,1447,0,0,0,0,2,Gauteng,,DIRECTORSHIP ACTIVE,Permanent_Res,0,Single,0
+71,4,45,Female,BLACK,5,4,45,0,1,22,0,0,1,22,5,Kwazulu Natal,5,DIRECTORSHIP UNKNOWN,Citizen,0,Single,0
+77,3,45,Male,BLACK,8,4,45,0,1,49,1,36,0,0,4,Free State,9,DIRECTORSHIP UNKNOWN,Permanent_Res,0,Married,0
+77,2,45,Female,OTHER,1,5,45,0,1,22,1,22,0,0,4,Western Cape,,DIRECTORSHIP UNKNOWN,Permanent_Res,0,Married,0
+77,1,45,Male,BLACK,2,4,45,0,1,45,0,0,0,0,3,Gauteng,120,DIRECTORSHIP UNKNOWN,Permanent_Res,0,Married,0
+71,3,45,Female,OTHER,2,4,45,0,1,42,0,0,1,126,3,Gauteng,5,DIRECTORSHIP UNKNOWN,Permanent_Res,0,Single,0
+72,4,45,Male,OTHER,2,4,45,0,1,35,0,0,0,0,3,Northern Cape,9,DIRECTORSHIP UNKNOWN,Permanent_Res,0,Married,0
+29,5,45,Female,BLACK,6,5,45,1,1,21,0,0,1,22,5,Gauteng,5,DIRECTORSHIP UNKNOWN,Citizen,0,Married,1
+44,3,45,Male,OTHER,3,3,45,0,1,63,0,0,1,63,2,Eastern Cape,10,DIRECTORSHIP UNKNOWN,Permanent_Res,0,,0
+44,3,45,Male,OTHER,6,5,45,0,1,22,0,0,0,0,4,,,DIRECTORSHIP UNKNOWN,Permanent_Res,0,Single,0
+36,3,45,Male,OTHER,3,3,45,0,1,22,0,0,1,24,5,Western Cape,3,DIRECTORSHIP UNKNOWN,Permanent_Res,0,Single,0
+33,4,45,Female,OTHER,6,5,45,0,1,6,1,21,1,21,7,Gauteng,,DIRECTORSHIP UNKNOWN,Permanent_Res,0,Married,1
